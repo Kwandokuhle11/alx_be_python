@@ -1,0 +1,1 @@
+This repository contains weekly python tasks 
